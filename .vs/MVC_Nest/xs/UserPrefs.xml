@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{938261B5-4357-48DF-8D3C-942AB119ADB4}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MVC__Nest PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Desktop/nest-frontend/index.html">
+    <Files>
+      <File FileName="../../Desktop/nest-frontend/index.html" Line="847" Column="2" />
+      <File FileName="MVC_Nest/Controllers/HomeController.cs" />
+      <File FileName="MVC_Nest/Views/Shared/_Layout.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVC_Nest" expanded="True">
+            <Node name="MVC_Nest" expanded="True">
+              <Node name="wwwroot" expanded="True" selected="True">
+                <Node name="client" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
