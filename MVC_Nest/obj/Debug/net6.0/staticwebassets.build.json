@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pS6/O04LmFPX6qePNOB0FmBIhorEojQ1mPeImN8zgh8=",
+  "Hash": "Hu/NBpSsXhZS00VKkYz8k2qmY7tSIv/EV6qQJROITwM=",
   "Source": "MVC_Nest",
   "BasePath": "_content/MVC_Nest",
   "Mode": "Default",
@@ -15,23 +15,5 @@
       "Pattern": "**"
     }
   ],
-  "Assets": [
-    {
-      "Identity": "/Users/leylahaciyeva/Projects/MVC_Nest/MVC_Nest/wwwroot/.DS_Store",
-      "SourceId": "MVC_Nest",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/leylahaciyeva/Projects/MVC_Nest/MVC_Nest/wwwroot/",
-      "BasePath": "_content/MVC_Nest",
-      "RelativePath": ".DS_Store",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/.DS_Store"
-    }
-  ]
+  "Assets": []
 }
